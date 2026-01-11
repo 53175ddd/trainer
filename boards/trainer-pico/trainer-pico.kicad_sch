@@ -2986,25 +2986,31 @@
 		(uuid "63945456-15b9-4ead-9f75-084af99f1162")
 	)
 	(junction
-		(at 162.56 137.16)
+		(at 162.56 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "65db048a-0854-441e-a240-cf9bd3673cc1")
 	)
 	(junction
-		(at 142.24 144.78)
+		(at 142.24 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "70485ffc-62ba-4410-a69b-e2b79bd6ee4e")
 	)
 	(junction
-		(at 162.56 121.92)
+		(at 162.56 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "70b78ff4-7c34-4ab0-be3a-73915b1d4d55")
+	)
+	(junction
+		(at 162.56 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "babbb51d-6bd1-44d3-b1cb-1fa5cc62322f")
 	)
 	(junction
-		(at 142.24 129.54)
+		(at 142.24 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e95648c3-151f-49a9-81d1-527ac1f89bb4")
@@ -3027,23 +3033,23 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 137.16) (xy 165.1 137.16)
+			(xy 162.56 106.68) (xy 165.1 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0aad7768-9b56-4241-b65c-3271a98e0e43")
+	)
+	(wire
+		(pts
+			(xy 162.56 121.92) (xy 165.1 121.92)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "0b578c67-d6f3-4d99-909e-4f6022b6e637")
-	)
-	(wire
-		(pts
-			(xy 142.24 144.78) (xy 142.24 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0cb2f4b7-1d83-4de2-b093-925826334fea")
 	)
 	(wire
 		(pts
@@ -3067,7 +3073,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 127) (xy 165.1 127)
+			(xy 139.7 142.24) (xy 165.1 142.24)
 		)
 		(stroke
 			(width 0)
@@ -3087,7 +3093,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 121.92) (xy 165.1 121.92)
+			(xy 162.56 137.16) (xy 165.1 137.16)
 		)
 		(stroke
 			(width 0)
@@ -3167,16 +3173,6 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 121.92) (xy 162.56 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38b529bc-aa9a-4276-809a-b7638eff6790")
-	)
-	(wire
-		(pts
 			(xy 139.7 111.76) (xy 165.1 111.76)
 		)
 		(stroke
@@ -3197,6 +3193,16 @@
 	)
 	(wire
 		(pts
+			(xy 162.56 101.6) (xy 162.56 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41c8ca10-a341-4997-8eda-03919d68ef04")
+	)
+	(wire
+		(pts
 			(xy 88.9 80.01) (xy 107.95 80.01)
 		)
 		(stroke
@@ -3204,6 +3210,16 @@
 			(type default)
 		)
 		(uuid "43210ecf-1e95-4f85-a706-d020426ecd5e")
+	)
+	(wire
+		(pts
+			(xy 162.56 121.92) (xy 162.56 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4abe12fe-7d25-4aae-a13c-c5ded9c42e5e")
 	)
 	(wire
 		(pts
@@ -3247,7 +3263,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 124.46) (xy 165.1 124.46)
+			(xy 139.7 139.7) (xy 165.1 139.7)
 		)
 		(stroke
 			(width 0)
@@ -3297,13 +3313,33 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 129.54) (xy 142.24 129.54)
+			(xy 139.7 144.78) (xy 142.24 144.78)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "7f92cb3e-6424-48a0-898e-e1bf7e931f47")
+	)
+	(wire
+		(pts
+			(xy 142.24 129.54) (xy 142.24 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "838576c3-4a43-488e-8fc1-f5d90ca327d3")
+	)
+	(wire
+		(pts
+			(xy 162.56 106.68) (xy 162.56 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83c0b6d3-68ff-4b32-83e0-633a2b8ee677")
 	)
 	(wire
 		(pts
@@ -3367,7 +3403,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 139.7) (xy 165.1 139.7)
+			(xy 139.7 124.46) (xy 165.1 124.46)
 		)
 		(stroke
 			(width 0)
@@ -3417,7 +3453,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 144.78) (xy 165.1 144.78)
+			(xy 142.24 129.54) (xy 165.1 129.54)
 		)
 		(stroke
 			(width 0)
@@ -3427,7 +3463,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 121.92) (xy 162.56 121.92)
+			(xy 139.7 137.16) (xy 162.56 137.16)
 		)
 		(stroke
 			(width 0)
@@ -3457,7 +3493,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 142.24) (xy 165.1 142.24)
+			(xy 139.7 127) (xy 165.1 127)
 		)
 		(stroke
 			(width 0)
@@ -3477,23 +3513,13 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 137.16) (xy 162.56 137.16)
+			(xy 139.7 121.92) (xy 162.56 121.92)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "b322f433-8451-4724-be75-6667b99255a5")
-	)
-	(wire
-		(pts
-			(xy 162.56 101.6) (xy 162.56 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b45cb6c4-0c2c-4f78-b552-3eebd6ba6c83")
 	)
 	(wire
 		(pts
@@ -3507,7 +3533,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 106.68) (xy 165.1 106.68)
+			(xy 139.7 106.68) (xy 162.56 106.68)
 		)
 		(stroke
 			(width 0)
@@ -3537,7 +3563,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 129.54) (xy 165.1 129.54)
+			(xy 142.24 144.78) (xy 165.1 144.78)
 		)
 		(stroke
 			(width 0)
@@ -3554,16 +3580,6 @@
 			(type default)
 		)
 		(uuid "d098ce75-ae02-4395-bb62-dc342fcc6437")
-	)
-	(wire
-		(pts
-			(xy 142.24 129.54) (xy 142.24 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d14dc1be-f921-47fa-a9c2-8fa28053eb55")
 	)
 	(wire
 		(pts
@@ -3607,7 +3623,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 144.78) (xy 142.24 144.78)
+			(xy 139.7 129.54) (xy 142.24 129.54)
 		)
 		(stroke
 			(width 0)
@@ -3624,6 +3640,16 @@
 			(type default)
 		)
 		(uuid "e96b7bcc-8593-4e62-9fed-0c7a171d6f20")
+	)
+	(wire
+		(pts
+			(xy 142.24 144.78) (xy 142.24 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f38e526e-18e3-4c19-b789-07af577d9bb5")
 	)
 	(wire
 		(pts
@@ -3716,7 +3742,7 @@
 		(uuid "4d872d4f-db7a-4663-a1fb-e63d460b9167")
 	)
 	(label "I2C_SDA"
-		(at 146.05 127 0)
+		(at 146.05 142.24 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3766,7 +3792,7 @@
 		(uuid "71d637f7-8325-4c5c-91da-fcd0ce8c8a71")
 	)
 	(label "UART_PICO_TX"
-		(at 146.05 139.7 0)
+		(at 146.05 124.46 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3896,7 +3922,7 @@
 		(uuid "99d19e86-dc80-4c3c-8bb6-20cdad70206d")
 	)
 	(label "I2C_SCL"
-		(at 146.05 124.46 0)
+		(at 146.05 139.7 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3986,7 +4012,7 @@
 		(uuid "e1a11b60-09c7-484b-9bc7-44ec5b1db74c")
 	)
 	(label "UART_PICO_RX"
-		(at 146.05 142.24 0)
+		(at 146.05 127 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4169,7 +4195,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Socket")
-		(at 170.18 139.7 0)
+		(at 170.18 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4177,8 +4203,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c7674b8-c33e-4175-a04d-3e7588b54dec")
-		(property "Reference" "J10"
-			(at 171.45 139.6999 0)
+		(property "Reference" "J9"
+			(at 171.45 124.4599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4187,7 +4213,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Socket"
-			(at 171.45 142.2399 0)
+			(at 171.45 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4196,7 +4222,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
-			(at 170.18 139.7 0)
+			(at 170.18 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4205,7 +4231,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 170.18 139.7 0)
+			(at 170.18 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4214,7 +4240,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 170.18 139.7 0)
+			(at 170.18 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4237,7 +4263,7 @@
 		(instances
 			(project "trainer-pico"
 				(path "/62e0410a-0396-4f93-bca1-bd2454f38729"
-					(reference "J10")
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -4451,7 +4477,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 134.62 139.7 0)
+		(at 134.62 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4459,8 +4485,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74e4c820-1dd4-44be-9a64-d9d6bc2611c1")
-		(property "Reference" "J5"
-			(at 135.255 132.08 0)
+		(property "Reference" "J4"
+			(at 135.255 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4468,7 +4494,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 135.255 134.62 0)
+			(at 135.255 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4476,7 +4502,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 134.62 139.7 0)
+			(at 134.62 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4485,7 +4511,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 134.62 139.7 0)
+			(at 134.62 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4494,7 +4520,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 134.62 139.7 0)
+			(at 134.62 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4517,7 +4543,7 @@
 		(instances
 			(project "trainer-pico"
 				(path "/62e0410a-0396-4f93-bca1-bd2454f38729"
-					(reference "J5")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -4749,7 +4775,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Socket")
-		(at 170.18 124.46 0)
+		(at 170.18 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4757,8 +4783,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a643dcf1-1f82-4663-a9c5-5ee24fafb3e1")
-		(property "Reference" "J9"
-			(at 171.45 124.4599 0)
+		(property "Reference" "J10"
+			(at 171.45 139.6999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4767,7 +4793,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Socket"
-			(at 171.45 126.9999 0)
+			(at 171.45 142.2399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4776,7 +4802,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
-			(at 170.18 124.46 0)
+			(at 170.18 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4785,7 +4811,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 170.18 124.46 0)
+			(at 170.18 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4794,7 +4820,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 170.18 124.46 0)
+			(at 170.18 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4817,7 +4843,7 @@
 		(instances
 			(project "trainer-pico"
 				(path "/62e0410a-0396-4f93-bca1-bd2454f38729"
-					(reference "J9")
+					(reference "J10")
 					(unit 1)
 				)
 			)
@@ -5157,7 +5183,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 134.62 124.46 0)
+		(at 134.62 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5165,8 +5191,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d22799be-c7c5-44b1-984c-3650f826a673")
-		(property "Reference" "J4"
-			(at 135.255 116.84 0)
+		(property "Reference" "J5"
+			(at 135.255 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5174,7 +5200,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 135.255 119.38 0)
+			(at 135.255 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5182,7 +5208,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 134.62 124.46 0)
+			(at 134.62 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5191,7 +5217,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 134.62 124.46 0)
+			(at 134.62 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5200,7 +5226,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 134.62 124.46 0)
+			(at 134.62 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5223,7 +5249,7 @@
 		(instances
 			(project "trainer-pico"
 				(path "/62e0410a-0396-4f93-bca1-bd2454f38729"
-					(reference "J4")
+					(reference "J5")
 					(unit 1)
 				)
 			)
