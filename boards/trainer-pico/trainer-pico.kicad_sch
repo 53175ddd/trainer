@@ -3742,7 +3742,7 @@
 		(uuid "4d872d4f-db7a-4663-a1fb-e63d460b9167")
 	)
 	(label "I2C_SDA"
-		(at 146.05 142.24 0)
+		(at 146.05 124.46 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3792,7 +3792,7 @@
 		(uuid "71d637f7-8325-4c5c-91da-fcd0ce8c8a71")
 	)
 	(label "UART_PICO_TX"
-		(at 146.05 124.46 0)
+		(at 146.05 142.24 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3922,7 +3922,7 @@
 		(uuid "99d19e86-dc80-4c3c-8bb6-20cdad70206d")
 	)
 	(label "I2C_SCL"
-		(at 146.05 139.7 0)
+		(at 146.05 127 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4012,7 +4012,7 @@
 		(uuid "e1a11b60-09c7-484b-9bc7-44ec5b1db74c")
 	)
 	(label "UART_PICO_RX"
-		(at 146.05 127 0)
+		(at 146.05 139.7 0)
 		(effects
 			(font
 				(size 1.27 1.27)
