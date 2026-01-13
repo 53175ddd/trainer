@@ -4335,6 +4335,26 @@
 			(uuid "955ac04c-5be2-4583-8a70-e0f5c3e52606")
 		)
 	)
+	(gr_line
+		(start 110.744 129.54)
+		(end 109.22 129.54)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "04185c2c-0571-49b5-b02b-36630edd5d35")
+	)
+	(gr_line
+		(start 109.22 111.76)
+		(end 109.22 99.06)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "08a60b19-48bc-44c2-a744-579811373c79")
+	)
 	(gr_rect
 		(start 123.57 68.14)
 		(end 171.07 140.14)
@@ -4345,6 +4365,36 @@
 		(fill none)
 		(layer "F.SilkS")
 		(uuid "0975efec-3d03-4df3-817b-8e97f8f0134d")
+	)
+	(gr_line
+		(start 109.22 129.54)
+		(end 109.22 116.84)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "0f2c9255-23f7-40de-a9c1-896d57bc3ddf")
+	)
+	(gr_line
+		(start 109.22 93.98)
+		(end 109.198 76.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "36ed69f3-3236-41d2-8f7a-acaa221c40e4")
+	)
+	(gr_line
+		(start 109.198 76.2)
+		(end 110.722 76.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3a1af59d-32ee-4e6b-81a3-4d028262fb95")
 	)
 	(gr_line
 		(start 127 53.34)
@@ -4376,6 +4426,16 @@
 		(layer "F.SilkS")
 		(uuid "49b7100d-e33c-455f-9269-9729ac142224")
 	)
+	(gr_line
+		(start 109.22 99.06)
+		(end 110.744 99.06)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "6cdc7fbc-5430-48eb-8589-e743dd939fe1")
+	)
 	(gr_rect
 		(start 102.87 61.595)
 		(end 120.015 71.755)
@@ -4388,6 +4448,16 @@
 		(uuid "91ce1cc1-e3c3-4ef4-aa46-0a2050fe0fb0")
 	)
 	(gr_line
+		(start 110.744 111.76)
+		(end 109.22 111.76)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "a9e794d6-1dd2-4d5d-b423-3c0ab4ced208")
+	)
+	(gr_line
 		(start 154.94 53.34)
 		(end 167.64 53.34)
 		(stroke
@@ -4396,6 +4466,26 @@
 		)
 		(layer "F.SilkS")
 		(uuid "bd9aa4a8-0e4f-4a1d-8d4e-cd2852b11d3a")
+	)
+	(gr_line
+		(start 110.744 93.98)
+		(end 109.22 93.98)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "cdaf8260-7e5a-4d71-b7e9-2668190fc475")
+	)
+	(gr_line
+		(start 109.22 116.84)
+		(end 110.744 116.84)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e9308043-5d6d-40c3-aadd-cf12beab423f")
 	)
 	(gr_line
 		(start 154.94 54.864)
@@ -4920,6 +5010,30 @@
 			)
 		)
 	)
+	(gr_text "SPI"
+		(at 108.204 85.09 90)
+		(layer "F.SilkS" knockout)
+		(uuid "43a4be06-69fc-45b5-a6d2-0de6b10ba71b")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.25)
+				(bold yes)
+			)
+		)
+	)
+	(gr_text "I2C"
+		(at 108.204 105.41 90)
+		(layer "F.SilkS" knockout)
+		(uuid "4788fd22-062b-44ba-bb71-47b13d517a76")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.25)
+				(bold yes)
+			)
+		)
+	)
 	(gr_text "↔"
 		(at 137.16 66.04 90)
 		(layer "F.SilkS")
@@ -4951,6 +5065,18 @@
 				(size 1 1)
 				(thickness 0.1)
 			)
+		)
+	)
+	(gr_text "SCL ->"
+		(at 109.855 67.31 0)
+		(layer "F.SilkS")
+		(uuid "5631199f-f157-4b7a-b501-4fc26ca989de")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify right)
 		)
 	)
 	(gr_text "SCK"
@@ -5073,6 +5199,18 @@
 			(font
 				(size 1 1)
 				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "UART"
+		(at 108.204 123.19 90)
+		(layer "F.SilkS" knockout)
+		(uuid "8924f3a1-5180-47a1-9965-6d66e4eee27c")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.25)
+				(bold yes)
 			)
 		)
 	)
@@ -5315,7 +5453,19 @@
 			(justify left)
 		)
 	)
-	(gr_text "Jump JP1 to enable\nExternal I2C Pullup\n\nR1:SCL\nR2:SDA"
+	(gr_text "SDA ->"
+		(at 109.855 69.85 0)
+		(layer "F.SilkS")
+		(uuid "f99d792b-7cfa-4aa6-bece-c8ed40263f74")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify right)
+		)
+	)
+	(gr_text "Jump JP1 to enable\nExternal I2C Pullup"
 		(at 103.505 62.23 0)
 		(layer "F.SilkS")
 		(uuid "fa9272e0-fee8-4262-be4a-66502a99f42c")
