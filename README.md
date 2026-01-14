@@ -12,16 +12,11 @@ Arduino を使ったプログラミング学習用の教材です．段階を踏
   - `./docs/`
 - 関連リンク
 
-## trainer シリーズのバリエーション
+## ハードウェア
 
-以下の 2 種類の開発ボードを提供しています．
+実習用に，秋月電子で購入できる RP2040 搭載のマイコンボード「AE-RP2040」を使用するハードウェア「trainer-pico」を用意しています．
 
-- trainer-nano
-  - `./boards/trainer-nano/`
-  - Arduino Nano を使用します
-- trainer-pico
-  - `./boards/trainer-pico/`
-  - Raspberry Pi Pico を使用します
+// 基板が出来上がったら Booth の購入リンクを追加する
 
 ## ドキュメント
 
