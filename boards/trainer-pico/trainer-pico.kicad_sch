@@ -10036,6 +10036,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C83528"
+			(at 234.95 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "90d3b23a-0874-4177-93f7-d07c9c5d97c1")
 		)
@@ -10169,6 +10178,15 @@
 			)
 		)
 		(property "Description" "Positive 1.5A 35V Linear Regulator, Fixed Output 9V, TO-220/TO-263/TO-252"
+			(at 234.95 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C262905"
 			(at 234.95 132.08 0)
 			(effects
 				(font
@@ -10400,6 +10418,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 234.95 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C83528"
 			(at 234.95 123.19 0)
 			(effects
 				(font
@@ -11038,6 +11065,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C86206"
+			(at 234.95 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b41983b5-cdea-46ec-8197-a633613f4357")
 		)
@@ -11177,6 +11213,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C98220"
+			(at 88.9 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eaa1e663-0bd7-44df-bcbf-f849ba0fa7fb")
 		)
@@ -11239,6 +11284,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 222.25 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C161262"
 			(at 222.25 139.7 0)
 			(effects
 				(font
@@ -11383,6 +11437,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 247.65 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C77055"
 			(at 247.65 101.6 0)
 			(effects
 				(font
@@ -11595,6 +11658,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 222.25 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C161262"
 			(at 222.25 101.6 0)
 			(effects
 				(font
@@ -11896,6 +11968,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 247.65 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C77055"
 			(at 247.65 139.7 0)
 			(effects
 				(font
@@ -12260,6 +12341,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 101.6 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C98220"
 			(at 101.6 171.45 0)
 			(effects
 				(font
@@ -13126,6 +13216,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 266.7 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C83528"
 			(at 266.7 93.98 0)
 			(effects
 				(font
@@ -14017,6 +14116,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 273.05 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C77092"
 			(at 273.05 101.6 0)
 			(effects
 				(font
