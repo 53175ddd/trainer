@@ -18001,6 +18001,18 @@
 		(layer "Edge.Cuts")
 		(uuid "fe1ddd65-ca9f-4d80-a2ad-bf011bc6fe1c")
 	)
+	(gr_text "https://github.com/53175ddd/trainer"
+		(at 99.06 144.78 0)
+		(layer "B.SilkS")
+		(uuid "e4584c1e-38bd-462e-ad5e-d2d0e9fa2c8f")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.15)
+			)
+			(justify left mirror)
+		)
+	)
 	(gr_text "GP23"
 		(at 95.25 73.66 0)
 		(layer "F.SilkS")
@@ -18988,6 +19000,18 @@
 				(size 1 1)
 				(thickness 0.1)
 			)
+		)
+	)
+	(gr_text "trainer-pico v0.1"
+		(at 63.5 144.78 0)
+		(layer "F.SilkS")
+		(uuid "f75e546e-372d-43c7-aded-68a5b0512dec")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+			(justify left)
 		)
 	)
 	(gr_text "↔"
