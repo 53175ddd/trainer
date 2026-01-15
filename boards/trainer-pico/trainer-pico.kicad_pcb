@@ -17427,8 +17427,8 @@
 		(uuid "3a1af59d-32ee-4e6b-81a3-4d028262fb95")
 	)
 	(gr_line
-		(start 157.48 144.145)
-		(end 157.48 143.51)
+		(start 156.845 144.145)
+		(end 156.845 143.51)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -17528,8 +17528,8 @@
 		(uuid "91ce1cc1-e3c3-4ef4-aa46-0a2050fe0fb0")
 	)
 	(gr_line
-		(start 168.91 144.145)
-		(end 168.91 143.51)
+		(start 168.275 144.145)
+		(end 168.275 143.51)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -17648,8 +17648,8 @@
 		(uuid "f2265033-3e23-496f-9c8e-af1df6a4f64f")
 	)
 	(gr_line
-		(start 168.91 144.145)
-		(end 157.48 144.145)
+		(start 168.275 144.145)
+		(end 156.845 144.145)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -18857,7 +18857,7 @@
 		)
 	)
 	(gr_text "12V"
-		(at 163.195 145.161 0)
+		(at 162.56 145.161 0)
 		(layer "F.SilkS" knockout)
 		(uuid "c81a3439-b3f5-4738-8500-65b231785107")
 		(effects
