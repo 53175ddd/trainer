@@ -19002,7 +19002,7 @@
 			)
 		)
 	)
-	(gr_text "trainer-pico v0.1"
+	(gr_text "trainer-pico v0.2"
 		(at 63.5 144.78 0)
 		(layer "F.SilkS")
 		(uuid "f75e546e-372d-43c7-aded-68a5b0512dec")
