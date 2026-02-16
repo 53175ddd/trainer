@@ -19218,6 +19218,18 @@
 			(justify left top)
 		)
 	)
+	(gr_text "12V DC INPUT"
+		(at 46.99 115.062 0)
+		(layer "F.SilkS")
+		(uuid "fb74e125-0083-4ed7-8871-5bb7f31754ae")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left)
+		)
+	)
 	(gr_text "GP17"
 		(at 95.25 88.9 0)
 		(layer "F.SilkS")
