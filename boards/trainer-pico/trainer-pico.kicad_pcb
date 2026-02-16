@@ -25174,34 +25174,6 @@
 		(net 0)
 		(net_name "")
 		(layers "F&B.Cu")
-		(uuid "4a159380-93b5-4e13-b221-7f666d2164bf")
-		(hatch edge 0.5)
-		(connect_pads
-			(clearance 0)
-		)
-		(min_thickness 0.25)
-		(filled_areas_thickness no)
-		(keepout
-			(tracks allowed)
-			(vias allowed)
-			(pads allowed)
-			(copperpour not_allowed)
-			(footprints allowed)
-		)
-		(fill
-			(thermal_gap 0.5)
-			(thermal_bridge_width 0.5)
-		)
-		(polygon
-			(pts
-				(xy 13.462 131.318) (xy 13.462 133.604) (xy 16.002 133.604) (xy 16.002 131.318)
-			)
-		)
-	)
-	(zone
-		(net 0)
-		(net_name "")
-		(layers "F&B.Cu")
 		(uuid "a84ce309-e349-4546-a82e-aaf43a1bc986")
 		(hatch edge 0.5)
 		(connect_pads
@@ -25725,34 +25697,6 @@
 		(polygon
 			(pts
 				(xy 110.49 106.68) (xy 113.03 106.68) (xy 113.03 100.33) (xy 110.49 100.33)
-			)
-		)
-	)
-	(zone
-		(net 0)
-		(net_name "")
-		(layer "B.Cu")
-		(uuid "be6fdb75-6829-4a56-af2c-bbe474053290")
-		(hatch edge 0.5)
-		(connect_pads
-			(clearance 0)
-		)
-		(min_thickness 0.25)
-		(filled_areas_thickness no)
-		(keepout
-			(tracks allowed)
-			(vias allowed)
-			(pads allowed)
-			(copperpour not_allowed)
-			(footprints allowed)
-		)
-		(fill
-			(thermal_gap 0.5)
-			(thermal_bridge_width 0.5)
-		)
-		(polygon
-			(pts
-				(xy 13.462 131.318) (xy 16.002 131.318) (xy 16.002 124.968) (xy 13.462 124.968)
 			)
 		)
 	)
