@@ -3146,7 +3146,7 @@
 			(uuid "450c1080-efa2-4dc9-aa54-966b902abe15")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 5.08 360)
+			(at 0 5.08 0)
 			(layer "F.Fab")
 			(uuid "48602c89-f029-4628-b45a-c85be71bc260")
 			(effects
@@ -4709,6 +4709,17 @@
 			(justify right)
 		)
 	)
+	(gr_text "74HC595"
+		(at 142.24 132.08 0)
+		(layer "F.SilkS")
+		(uuid "66ada2a4-bfe0-4295-b6da-6aae6a9d3fd2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
 	(gr_text "ENABLE"
 		(at 137.16 78.74 90)
 		(layer "F.SilkS")
@@ -5362,6 +5373,62 @@
 				(xy 121.752007 100.805925) (xy 121.879174 100.84) (xy 122.010826 100.84) (xy 122.137993 100.805925)
 				(xy 122.174 100.785136) (xy 122.174 102.434863) (xy 122.137993 102.414075) (xy 122.010826 102.38)
 				(xy 121.879174 102.38) (xy 121.752007 102.414075) (xy 121.695 102.446988) (xy 121.695 100.773012)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "B.Cu")
+		(uuid "03f83f77-2a4b-44c2-922a-0866d2e757a6")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 120.65 105.664) (xy 121.666 105.664) (xy 121.666 107.696) (xy 120.65 107.696)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "B.Cu")
+		(uuid "15f235f4-118f-4ac0-8ede-b93ec8876649")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 122.174 105.664) (xy 123.19 105.664) (xy 123.19 107.696) (xy 122.174 107.696)
 			)
 		)
 	)
