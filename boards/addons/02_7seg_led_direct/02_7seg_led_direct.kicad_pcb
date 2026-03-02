@@ -4960,7 +4960,7 @@
 			(justify bottom)
 		)
 	)
-	(gr_text "7 segments LED with Direct Drive v0.1"
+	(gr_text "7 segments LED with Direct Drive v0.2"
 		(at 110.49 134.62 0)
 		(layer "F.SilkS")
 		(uuid "f836b6c0-4e3c-4502-9461-600b6c73ede6")

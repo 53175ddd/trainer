@@ -4756,7 +4756,7 @@
 			(justify right)
 		)
 	)
-	(gr_text "7 segments LED with HC595 v0.1"
+	(gr_text "7 segments LED with HC595 v0.2"
 		(at 125.73 139.7 0)
 		(layer "F.SilkS")
 		(uuid "aaef4cbf-5882-441d-859d-06c9d2163671")

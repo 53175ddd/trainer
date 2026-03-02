@@ -2314,7 +2314,7 @@
 			(justify right)
 		)
 	)
-	(gr_text "SW and LED board for Digital IO v0.1"
+	(gr_text "SW and LED board for Digital IO v0.2"
 		(at 135.89 134.62 0)
 		(layer "F.SilkS")
 		(uuid "c80b0662-cd82-44d2-bec9-5229d16e3af9")
