@@ -16,6 +16,8 @@ Arduino を使ったプログラミング学習用の教材です．段階を踏
 
 実習用に，秋月電子で購入できる RP2040 搭載のマイコンボード「AE-RP2040」を使用するハードウェア「trainer-pico」を用意しています．
 
+基板イメージ：<https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2F53175ddd%2Ftrainer%2Ftree%2Fmaster%2Fboards%2Ftrainer-pico>
+
 // 基板が出来上がったら Booth の購入リンクを追加する
 
 ## ドキュメント
