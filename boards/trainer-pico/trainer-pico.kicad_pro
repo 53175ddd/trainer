@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 3.5,
-          "width": 3.5
+          "drill": 0.0,
+          "height": 0.5,
+          "width": 1.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -622,7 +622,7 @@
   "sheets": [
     [
       "62e0410a-0396-4f93-bca1-bd2454f38729",
-      "Root"
+      "ルート"
     ]
   ],
   "text_variables": {}
