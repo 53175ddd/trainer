@@ -11482,6 +11482,203 @@
 			)
 		)
 	)
+	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+		(layer "F.Cu")
+		(uuid "b66ba81a-7ea9-42bd-bc90-cb73dbb4b63e")
+		(at 53.34 124.46)
+		(descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
+		(tags "Through hole pin header THT 1x01 2.54mm single row")
+		(property "Reference" "TP1"
+			(at 0 -2.33 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "49eed8d4-0268-4c67-8d27-4e1ef2fe93b3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 0 2.33 0)
+			(layer "F.Fab")
+			(uuid "9c2721a4-69cb-4668-aa96-f74731831915")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a250728d-6000-43b1-9085-254ad5f16b37")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a3fccdc5-7d21-4773-9cc6-d319a4eb9dbc")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "257e579d-5bed-417c-90f7-25f60eed479c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Pin* Test*")
+		(path "/0d534ccc-7503-4d98-93c1-2e529264da24")
+		(sheetname "ルート")
+		(sheetfile "trainer-pico.kicad_sch")
+		(attr through_hole)
+		(fp_line
+			(start -1.8 -1.8)
+			(end -1.8 1.8)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "46925126-5f66-45cf-9085-d21f6f298f2d")
+		)
+		(fp_line
+			(start -1.8 1.8)
+			(end 1.8 1.8)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "ad4dcc73-3390-4b9e-a40e-865cff163d3e")
+		)
+		(fp_line
+			(start 1.8 -1.8)
+			(end -1.8 -1.8)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "cbfba29f-cd73-4e70-9da9-7fc5566b5dd7")
+		)
+		(fp_line
+			(start 1.8 1.8)
+			(end 1.8 -1.8)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "88eb364f-0bea-4c27-b015-fa027a5f42f9")
+		)
+		(fp_line
+			(start -1.27 -0.635)
+			(end -0.635 -1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "4b620e56-7710-407b-bdbd-fdad0ed692ef")
+		)
+		(fp_line
+			(start -1.27 1.27)
+			(end -1.27 -0.635)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "557db3a0-df72-49bc-9d76-391b364b5648")
+		)
+		(fp_line
+			(start -0.635 -1.27)
+			(end 1.27 -1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "9df3d2f5-84ed-4d21-b71b-e3a3e4cd8c4c")
+		)
+		(fp_line
+			(start 1.27 -1.27)
+			(end 1.27 1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "4c4b5930-9ae7-4428-a67e-aa103db13120")
+		)
+		(fp_line
+			(start 1.27 1.27)
+			(end -1.27 1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "dae9be29-7df9-490b-bbf9-598e499fd943")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(uuid "0fe443ca-527b-489b-9273-4f369ae4b644")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 1.7 1.7)
+			(drill 0.8)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 13 "GND")
+			(pinfunction "1")
+			(pintype "passive")
+			(uuid "8ec24a70-0138-4f3b-b21c-fe6b73c199d1")
+		)
+		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "Diode_SMD:D_SOD-123F"
 		(layer "F.Cu")
 		(uuid "bc0a2166-dff6-4d23-a403-ecce7fc0d2b3")
@@ -15269,6 +15466,39 @@
 		(layer "F.SilkS")
 		(uuid "f2265033-3e23-496f-9c8e-af1df6a4f64f")
 	)
+	(gr_circle
+		(center 111.76 129.794)
+		(end 112.522 129.794)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Mask")
+		(uuid "44b9883e-8f02-4b05-be57-a2e67c7253ca")
+	)
+	(gr_circle
+		(center 111.76 123.698)
+		(end 112.522 123.698)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Mask")
+		(uuid "6977711c-09fe-4a24-813b-e23557b98211")
+	)
+	(gr_circle
+		(center 111.76 126.746)
+		(end 112.522 126.746)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.Mask")
+		(uuid "7c353563-7143-4144-a199-efecef147182")
+	)
 	(gr_line
 		(start 240.924 130.996)
 		(end 193.924 58.996)
@@ -15482,6 +15712,19 @@
 				(size 1 1)
 				(thickness 0.1)
 			)
+		)
+	)
+	(gr_text "12V"
+		(at 110.49 129.794 0)
+		(layer "F.SilkS" knockout)
+		(uuid "08414916-5e12-4933-9b8e-09e888fd085f")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.25)
+				(bold yes)
+			)
+			(justify right)
 		)
 	)
 	(gr_text "GP1"
@@ -15877,6 +16120,19 @@
 			)
 		)
 	)
+	(gr_text "5V"
+		(at 110.49 123.698 0)
+		(layer "F.SilkS" knockout)
+		(uuid "59f9bf35-d9e3-4eff-afec-0ec06b0f4eed")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.25)
+				(bold yes)
+			)
+			(justify right)
+		)
+	)
 	(gr_text "RX"
 		(at 107.95 114.3 0)
 		(layer "F.SilkS")
@@ -16000,6 +16256,19 @@
 			)
 		)
 	)
+	(gr_text "9V"
+		(at 110.49 126.746 0)
+		(layer "F.SilkS" knockout)
+		(uuid "82a816da-7bf0-40c6-ab66-fb171a537e37")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.25)
+				(bold yes)
+			)
+			(justify right)
+		)
+	)
 	(gr_text "TX"
 		(at 107.95 116.84 0)
 		(layer "F.SilkS")
@@ -16088,6 +16357,18 @@
 			(font
 				(size 1 1)
 				(thickness 0.1)
+			)
+		)
+	)
+	(gr_text "GND"
+		(at 53.34 122.174 0)
+		(layer "F.SilkS" knockout)
+		(uuid "9cb383bb-97f2-4a07-b185-a4c78d683aa7")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.25)
+				(bold yes)
 			)
 		)
 	)
