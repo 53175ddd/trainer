@@ -17074,7 +17074,7 @@
 		(layer "Edge.Cuts")
 		(uuid "efbad765-2065-4a12-a04c-0576e1a7cecb")
 	)
-	(gr_text "https://github.com/53175ddd/trainer"
+	(gr_text "https://github.com/MOS-Elecs/trainer"
 		(at 99.06 144.78 0)
 		(layer "B.SilkS")
 		(uuid "e4584c1e-38bd-462e-ad5e-d2d0e9fa2c8f")
