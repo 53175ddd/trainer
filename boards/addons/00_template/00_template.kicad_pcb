@@ -104,6 +104,7 @@
 	(net 22 "/GP2")
 	(net 23 "/I2C_SDA")
 	(net 24 "/UART_PICO_TX")
+	(net 25 "/SPI_MOSI")
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_2x15_P2.54mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "0589b128-428e-4b78-8c45-547483a7ddd6")
@@ -2548,7 +2549,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 14 "/SPI_MISO")
+			(net 25 "/SPI_MOSI")
 			(pinfunction "Pin_6")
 			(pintype "passive")
 			(uuid "6bc87561-d51d-4678-bcd5-e9252aa2b244")
@@ -2883,5 +2884,17 @@
 		(fill none)
 		(layer "Edge.Cuts")
 		(uuid "f11b028c-81de-400b-b921-edceda94df1d")
+	)
+	(gr_text "hogehoge Board for trainer"
+		(at 135.89 134.62 0)
+		(layer "F.SilkS")
+		(uuid "4c5bb7d7-d2c4-4c98-83b9-efea581efd02")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
 	)
 )

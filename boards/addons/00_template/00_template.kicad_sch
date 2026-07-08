@@ -2433,7 +2433,7 @@
 		)
 		(uuid "c9436ee6-c2c9-4c97-9e8a-a46177a3255c")
 	)
-	(label "SPI_MISO"
+	(label "SPI_MOSI"
 		(at 27.94 64.77 0)
 		(effects
 			(font
