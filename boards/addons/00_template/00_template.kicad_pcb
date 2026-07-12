@@ -108,7 +108,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_2x15_P2.54mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "0589b128-428e-4b78-8c45-547483a7ddd6")
-		(at 134.625 71.25 90)
+		(at 134.625 71.12 90)
 		(descr "Through hole angled pin header, 2x15, 2.54mm pitch, 6mm pin length, double rows")
 		(tags "Through hole angled pin header THT 2x15 2.54mm double row")
 		(property "Reference" "J1"
