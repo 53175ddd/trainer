@@ -8443,6 +8443,7 @@
 	)
 	(label "GP_18"
 		(at 266.7 63.5 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8453,6 +8454,7 @@
 	)
 	(label "GP_2"
 		(at 215.9 38.1 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8463,6 +8465,7 @@
 	)
 	(label "ADC_3"
 		(at 266.7 35.56 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8473,6 +8476,7 @@
 	)
 	(label "GP_24"
 		(at 266.7 48.26 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8483,6 +8487,7 @@
 	)
 	(label "GP_5"
 		(at 190.5 130.81 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8493,6 +8498,7 @@
 	)
 	(label "GP_3"
 		(at 190.5 128.27 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8503,6 +8509,7 @@
 	)
 	(label "GP_2"
 		(at 152.4 128.27 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8512,17 +8519,19 @@
 		(uuid "11bccb45-5a1b-4a4c-8cf7-6b29093909d9")
 	)
 	(label "SPI_CS"
-		(at 152.4 123.19 0)
+		(at 190.5 123.19 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "12387145-a8b6-445a-90a9-4d3e444d3ef2")
 	)
 	(label "GP_3"
 		(at 107.95 57.15 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8533,6 +8542,7 @@
 	)
 	(label "GP_24"
 		(at 107.95 125.73 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8543,6 +8553,7 @@
 	)
 	(label "UART_PICO_TX"
 		(at 266.7 68.58 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8553,6 +8564,7 @@
 	)
 	(label "SPI_MISO"
 		(at 107.95 74.93 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8563,6 +8575,7 @@
 	)
 	(label "UART_PICO_TX"
 		(at 152.4 115.57 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8573,6 +8586,7 @@
 	)
 	(label "GP_1"
 		(at 215.9 35.56 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8583,6 +8597,7 @@
 	)
 	(label "GP_25"
 		(at 266.7 45.72 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8593,6 +8608,7 @@
 	)
 	(label "UART_PICO_RX"
 		(at 266.7 66.04 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8603,6 +8619,7 @@
 	)
 	(label "GP_13"
 		(at 107.95 90.17 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8613,6 +8630,7 @@
 	)
 	(label "GP_22"
 		(at 266.7 53.34 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8623,6 +8641,7 @@
 	)
 	(label "SPI_SCK"
 		(at 190.5 120.65 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8632,17 +8651,19 @@
 		(uuid "27950242-54b5-4cc8-b92d-990cc4c0dccc")
 	)
 	(label "SPI_MISO"
-		(at 190.5 123.19 180)
+		(at 152.4 123.19 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "2999d381-84df-4273-955d-a57e3cfc5067")
 	)
 	(label "SPI_CS"
 		(at 107.95 77.47 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8653,6 +8674,7 @@
 	)
 	(label "GP_23"
 		(at 107.95 123.19 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8663,6 +8685,7 @@
 	)
 	(label "I2C_SDA"
 		(at 266.7 55.88 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8673,6 +8696,7 @@
 	)
 	(label "GP_12"
 		(at 107.95 87.63 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8683,6 +8707,7 @@
 	)
 	(label "GP_4"
 		(at 107.95 62.23 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8693,6 +8718,7 @@
 	)
 	(label "GP_15"
 		(at 107.95 95.25 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8703,6 +8729,7 @@
 	)
 	(label "I2C_SDA"
 		(at 190.5 118.11 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8713,6 +8740,7 @@
 	)
 	(label "ADC_2"
 		(at 107.95 138.43 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8723,6 +8751,7 @@
 	)
 	(label "GP_7"
 		(at 215.9 50.8 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8733,6 +8762,7 @@
 	)
 	(label "GP_5"
 		(at 120.65 63.5 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8743,6 +8773,7 @@
 	)
 	(label "GP_7"
 		(at 107.95 69.85 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8753,6 +8784,7 @@
 	)
 	(label "SPI_MISO"
 		(at 120.65 104.14 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8763,6 +8795,7 @@
 	)
 	(label "I2C_SDA"
 		(at 120.65 124.46 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8773,6 +8806,7 @@
 	)
 	(label "GP_0"
 		(at 152.4 125.73 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8783,6 +8817,7 @@
 	)
 	(label "GP_7"
 		(at 190.5 133.35 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8793,6 +8828,7 @@
 	)
 	(label "I2C_SCL"
 		(at 266.7 58.42 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8803,6 +8839,7 @@
 	)
 	(label "SPI_MOSI"
 		(at 107.95 82.55 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8813,6 +8850,7 @@
 	)
 	(label "ADC_0"
 		(at 266.7 43.18 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8823,6 +8861,7 @@
 	)
 	(label "I2C_SCL"
 		(at 190.5 115.57 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8833,6 +8872,7 @@
 	)
 	(label "GP_14"
 		(at 107.95 92.71 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8843,6 +8883,7 @@
 	)
 	(label "GP_22"
 		(at 107.95 120.65 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8853,6 +8894,7 @@
 	)
 	(label "GP_6"
 		(at 215.9 48.26 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8863,6 +8905,7 @@
 	)
 	(label "GP_15"
 		(at 215.9 71.12 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8873,6 +8916,7 @@
 	)
 	(label "SPI_SCK"
 		(at 107.95 80.01 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8883,6 +8927,7 @@
 	)
 	(label "SPI_MOSI"
 		(at 215.9 60.96 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8893,6 +8938,7 @@
 	)
 	(label "GP_6"
 		(at 120.65 66.04 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8903,6 +8949,7 @@
 	)
 	(label "SPI_MOSI"
 		(at 152.4 120.65 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8913,6 +8960,7 @@
 	)
 	(label "SPI_MISO"
 		(at 215.9 53.34 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8923,6 +8971,7 @@
 	)
 	(label "ADC_1"
 		(at 120.65 81.28 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8933,6 +8982,7 @@
 	)
 	(label "UART_PICO_TX"
 		(at 120.65 142.24 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8943,6 +8993,7 @@
 	)
 	(label "GP_0"
 		(at 107.95 49.53 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8953,6 +9004,7 @@
 	)
 	(label "GP_0"
 		(at 120.65 50.8 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8963,6 +9015,7 @@
 	)
 	(label "GP_25"
 		(at 107.95 128.27 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8973,6 +9026,7 @@
 	)
 	(label "GP_7"
 		(at 120.65 68.58 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8983,6 +9037,7 @@
 	)
 	(label "GP_5"
 		(at 215.9 45.72 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8993,6 +9048,7 @@
 	)
 	(label "GP_13"
 		(at 215.9 66.04 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9003,6 +9059,7 @@
 	)
 	(label "ADC_3"
 		(at 120.65 86.36 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9013,6 +9070,7 @@
 	)
 	(label "GP_2"
 		(at 107.95 54.61 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9023,6 +9081,7 @@
 	)
 	(label "ADC_3"
 		(at 190.5 138.43 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9033,6 +9092,7 @@
 	)
 	(label "GP_5"
 		(at 107.95 64.77 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9043,6 +9103,7 @@
 	)
 	(label "GP_6"
 		(at 107.95 67.31 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9053,6 +9114,7 @@
 	)
 	(label "GP_1"
 		(at 120.65 53.34 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9063,6 +9125,7 @@
 	)
 	(label "ADC_3"
 		(at 107.95 140.97 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9073,6 +9136,7 @@
 	)
 	(label "SPI_SCK"
 		(at 215.9 58.42 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9083,6 +9147,7 @@
 	)
 	(label "GP_1"
 		(at 190.5 125.73 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9093,6 +9158,7 @@
 	)
 	(label "ADC_0"
 		(at 120.65 78.74 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9103,6 +9169,7 @@
 	)
 	(label "GP_1"
 		(at 107.95 52.07 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9113,6 +9180,7 @@
 	)
 	(label "GP_4"
 		(at 152.4 130.81 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9123,6 +9191,7 @@
 	)
 	(label "ADC_2"
 		(at 152.4 138.43 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9133,6 +9202,7 @@
 	)
 	(label "ADC_2"
 		(at 120.65 83.82 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9143,6 +9213,7 @@
 	)
 	(label "I2C_SCL"
 		(at 120.65 127 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9153,6 +9224,7 @@
 	)
 	(label "SPI_MOSI"
 		(at 120.65 111.76 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9163,6 +9235,7 @@
 	)
 	(label "GP_18"
 		(at 107.95 105.41 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9173,6 +9246,7 @@
 	)
 	(label "ADC_1"
 		(at 107.95 135.89 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9183,6 +9257,7 @@
 	)
 	(label "GP_3"
 		(at 215.9 40.64 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9193,6 +9268,7 @@
 	)
 	(label "ADC_0"
 		(at 107.95 133.35 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9203,6 +9279,7 @@
 	)
 	(label "ADC_0"
 		(at 152.4 135.89 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9213,6 +9290,7 @@
 	)
 	(label "UART_PICO_TX"
 		(at 107.95 100.33 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9223,6 +9301,7 @@
 	)
 	(label "GP_4"
 		(at 215.9 43.18 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9233,6 +9312,7 @@
 	)
 	(label "ADC_2"
 		(at 266.7 38.1 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9243,6 +9323,7 @@
 	)
 	(label "I2C_SCL"
 		(at 107.95 113.03 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9253,6 +9334,7 @@
 	)
 	(label "I2C_SDA"
 		(at 111.76 177.8 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9263,6 +9345,7 @@
 	)
 	(label "I2C_SDA"
 		(at 107.95 115.57 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9273,6 +9356,7 @@
 	)
 	(label "GP_3"
 		(at 120.65 58.42 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9283,6 +9367,7 @@
 	)
 	(label "UART_PICO_RX"
 		(at 152.4 118.11 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9293,6 +9378,7 @@
 	)
 	(label "GP_0"
 		(at 215.9 33.02 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9303,6 +9389,7 @@
 	)
 	(label "GP_19"
 		(at 107.95 107.95 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9313,6 +9400,7 @@
 	)
 	(label "SPI_CS"
 		(at 215.9 55.88 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9323,6 +9411,7 @@
 	)
 	(label "GP_12"
 		(at 215.9 63.5 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9333,6 +9422,7 @@
 	)
 	(label "GP_23"
 		(at 266.7 50.8 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9343,6 +9433,7 @@
 	)
 	(label "GP_6"
 		(at 152.4 133.35 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9353,6 +9444,7 @@
 	)
 	(label "I2C_SCL"
 		(at 99.06 177.8 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9363,6 +9455,7 @@
 	)
 	(label "GP_4"
 		(at 120.65 60.96 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9373,6 +9466,7 @@
 	)
 	(label "GP_14"
 		(at 215.9 68.58 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9383,6 +9477,7 @@
 	)
 	(label "ADC_1"
 		(at 266.7 40.64 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9393,6 +9488,7 @@
 	)
 	(label "ADC_1"
 		(at 190.5 135.89 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9403,6 +9499,7 @@
 	)
 	(label "UART_PICO_RX"
 		(at 120.65 139.7 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9413,6 +9510,7 @@
 	)
 	(label "SPI_SCK"
 		(at 120.65 109.22 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9423,6 +9521,7 @@
 	)
 	(label "GP_19"
 		(at 266.7 60.96 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9433,6 +9532,7 @@
 	)
 	(label "GP_2"
 		(at 120.65 55.88 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9443,6 +9543,7 @@
 	)
 	(label "UART_PICO_RX"
 		(at 107.95 102.87 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9453,6 +9554,7 @@
 	)
 	(label "SPI_CS"
 		(at 120.65 106.68 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
