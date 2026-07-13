@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.6,
-          "width": 1.6
+          "drill": 1.3,
+          "height": 2.6,
+          "width": 2.6
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.0
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -179,7 +179,6 @@
       ],
       "track_widths": [
         0.0,
-        0.3,
         0.508
       ],
       "tuning_pattern_settings": {
@@ -446,7 +445,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "02_7seg_led_direct.kicad_pro",
+    "filename": "00_universal_board.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -591,7 +590,7 @@
   },
   "sheets": [
     [
-      "be2ede56-7c53-44e6-b942-d4aaffd5e067",
+      "c8c63b6a-1d53-4e6d-9d14-1f9d1b7c01a9",
       "ルート"
     ]
   ],
