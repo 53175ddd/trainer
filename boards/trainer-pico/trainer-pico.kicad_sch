@@ -8443,7 +8443,6 @@
 	)
 	(label "GP_18"
 		(at 266.7 63.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8454,7 +8453,6 @@
 	)
 	(label "GP_2"
 		(at 215.9 38.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8465,7 +8463,6 @@
 	)
 	(label "ADC_3"
 		(at 266.7 35.56 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8476,7 +8473,6 @@
 	)
 	(label "GP_24"
 		(at 266.7 48.26 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8487,7 +8483,6 @@
 	)
 	(label "GP_5"
 		(at 190.5 130.81 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8498,7 +8493,6 @@
 	)
 	(label "GP_3"
 		(at 190.5 128.27 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8509,7 +8503,6 @@
 	)
 	(label "GP_2"
 		(at 152.4 128.27 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8520,7 +8513,6 @@
 	)
 	(label "SPI_CS"
 		(at 190.5 123.19 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8531,7 +8523,6 @@
 	)
 	(label "GP_3"
 		(at 107.95 57.15 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8542,7 +8533,6 @@
 	)
 	(label "GP_24"
 		(at 107.95 125.73 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8553,7 +8543,6 @@
 	)
 	(label "UART_PICO_TX"
 		(at 266.7 68.58 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8564,7 +8553,6 @@
 	)
 	(label "SPI_MISO"
 		(at 107.95 74.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8575,7 +8563,6 @@
 	)
 	(label "UART_PICO_TX"
 		(at 152.4 115.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8586,7 +8573,6 @@
 	)
 	(label "GP_1"
 		(at 215.9 35.56 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8597,7 +8583,6 @@
 	)
 	(label "GP_25"
 		(at 266.7 45.72 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8608,7 +8593,6 @@
 	)
 	(label "UART_PICO_RX"
 		(at 266.7 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8619,7 +8603,6 @@
 	)
 	(label "GP_13"
 		(at 107.95 90.17 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8630,7 +8613,6 @@
 	)
 	(label "GP_22"
 		(at 266.7 53.34 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8641,7 +8623,6 @@
 	)
 	(label "SPI_SCK"
 		(at 190.5 120.65 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8652,7 +8633,6 @@
 	)
 	(label "SPI_MISO"
 		(at 152.4 123.19 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8663,7 +8643,6 @@
 	)
 	(label "SPI_CS"
 		(at 107.95 77.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8674,7 +8653,6 @@
 	)
 	(label "GP_23"
 		(at 107.95 123.19 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8685,7 +8663,6 @@
 	)
 	(label "I2C_SDA"
 		(at 266.7 55.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8696,7 +8673,6 @@
 	)
 	(label "GP_12"
 		(at 107.95 87.63 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8707,7 +8683,6 @@
 	)
 	(label "GP_4"
 		(at 107.95 62.23 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8718,7 +8693,6 @@
 	)
 	(label "GP_15"
 		(at 107.95 95.25 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8729,7 +8703,6 @@
 	)
 	(label "I2C_SDA"
 		(at 190.5 118.11 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8740,7 +8713,6 @@
 	)
 	(label "ADC_2"
 		(at 107.95 138.43 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8751,7 +8723,6 @@
 	)
 	(label "GP_7"
 		(at 215.9 50.8 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8762,7 +8733,6 @@
 	)
 	(label "GP_5"
 		(at 120.65 63.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8773,7 +8743,6 @@
 	)
 	(label "GP_7"
 		(at 107.95 69.85 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8784,7 +8753,6 @@
 	)
 	(label "SPI_MISO"
 		(at 120.65 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8795,7 +8763,6 @@
 	)
 	(label "I2C_SDA"
 		(at 120.65 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8806,7 +8773,6 @@
 	)
 	(label "GP_0"
 		(at 152.4 125.73 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8817,7 +8783,6 @@
 	)
 	(label "GP_7"
 		(at 190.5 133.35 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8828,7 +8793,6 @@
 	)
 	(label "I2C_SCL"
 		(at 266.7 58.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8839,7 +8803,6 @@
 	)
 	(label "SPI_MOSI"
 		(at 107.95 82.55 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8850,7 +8813,6 @@
 	)
 	(label "ADC_0"
 		(at 266.7 43.18 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8861,7 +8823,6 @@
 	)
 	(label "I2C_SCL"
 		(at 190.5 115.57 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8872,7 +8833,6 @@
 	)
 	(label "GP_14"
 		(at 107.95 92.71 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8883,7 +8843,6 @@
 	)
 	(label "GP_22"
 		(at 107.95 120.65 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8894,7 +8853,6 @@
 	)
 	(label "GP_6"
 		(at 215.9 48.26 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8905,7 +8863,6 @@
 	)
 	(label "GP_15"
 		(at 215.9 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8916,7 +8873,6 @@
 	)
 	(label "SPI_SCK"
 		(at 107.95 80.01 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8927,7 +8883,6 @@
 	)
 	(label "SPI_MOSI"
 		(at 215.9 60.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8938,7 +8893,6 @@
 	)
 	(label "GP_6"
 		(at 120.65 66.04 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8949,7 +8903,6 @@
 	)
 	(label "SPI_MOSI"
 		(at 152.4 120.65 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8960,7 +8913,6 @@
 	)
 	(label "SPI_MISO"
 		(at 215.9 53.34 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8971,7 +8923,6 @@
 	)
 	(label "ADC_1"
 		(at 120.65 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8982,7 +8933,6 @@
 	)
 	(label "UART_PICO_TX"
 		(at 120.65 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8993,7 +8943,6 @@
 	)
 	(label "GP_0"
 		(at 107.95 49.53 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9004,7 +8953,6 @@
 	)
 	(label "GP_0"
 		(at 120.65 50.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9015,7 +8963,6 @@
 	)
 	(label "GP_25"
 		(at 107.95 128.27 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9026,7 +8973,6 @@
 	)
 	(label "GP_7"
 		(at 120.65 68.58 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9037,7 +8983,6 @@
 	)
 	(label "GP_5"
 		(at 215.9 45.72 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9048,7 +8993,6 @@
 	)
 	(label "GP_13"
 		(at 215.9 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9059,7 +9003,6 @@
 	)
 	(label "ADC_3"
 		(at 120.65 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9070,7 +9013,6 @@
 	)
 	(label "GP_2"
 		(at 107.95 54.61 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9081,7 +9023,6 @@
 	)
 	(label "ADC_3"
 		(at 190.5 138.43 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9092,7 +9033,6 @@
 	)
 	(label "GP_5"
 		(at 107.95 64.77 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9103,7 +9043,6 @@
 	)
 	(label "GP_6"
 		(at 107.95 67.31 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9114,7 +9053,6 @@
 	)
 	(label "GP_1"
 		(at 120.65 53.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9125,7 +9063,6 @@
 	)
 	(label "ADC_3"
 		(at 107.95 140.97 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9136,7 +9073,6 @@
 	)
 	(label "SPI_SCK"
 		(at 215.9 58.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9147,7 +9083,6 @@
 	)
 	(label "GP_1"
 		(at 190.5 125.73 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9158,7 +9093,6 @@
 	)
 	(label "ADC_0"
 		(at 120.65 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9169,7 +9103,6 @@
 	)
 	(label "GP_1"
 		(at 107.95 52.07 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9180,7 +9113,6 @@
 	)
 	(label "GP_4"
 		(at 152.4 130.81 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9191,7 +9123,6 @@
 	)
 	(label "ADC_2"
 		(at 152.4 138.43 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9202,7 +9133,6 @@
 	)
 	(label "ADC_2"
 		(at 120.65 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9213,7 +9143,6 @@
 	)
 	(label "I2C_SCL"
 		(at 120.65 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9224,7 +9153,6 @@
 	)
 	(label "SPI_MOSI"
 		(at 120.65 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9235,7 +9163,6 @@
 	)
 	(label "GP_18"
 		(at 107.95 105.41 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9246,7 +9173,6 @@
 	)
 	(label "ADC_1"
 		(at 107.95 135.89 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9257,7 +9183,6 @@
 	)
 	(label "GP_3"
 		(at 215.9 40.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9268,7 +9193,6 @@
 	)
 	(label "ADC_0"
 		(at 107.95 133.35 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9279,7 +9203,6 @@
 	)
 	(label "ADC_0"
 		(at 152.4 135.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9290,7 +9213,6 @@
 	)
 	(label "UART_PICO_TX"
 		(at 107.95 100.33 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9301,7 +9223,6 @@
 	)
 	(label "GP_4"
 		(at 215.9 43.18 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9312,7 +9233,6 @@
 	)
 	(label "ADC_2"
 		(at 266.7 38.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9323,7 +9243,6 @@
 	)
 	(label "I2C_SCL"
 		(at 107.95 113.03 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9334,7 +9253,6 @@
 	)
 	(label "I2C_SDA"
 		(at 111.76 177.8 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9345,7 +9263,6 @@
 	)
 	(label "I2C_SDA"
 		(at 107.95 115.57 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9356,7 +9273,6 @@
 	)
 	(label "GP_3"
 		(at 120.65 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9367,7 +9283,6 @@
 	)
 	(label "UART_PICO_RX"
 		(at 152.4 118.11 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9378,7 +9293,6 @@
 	)
 	(label "GP_0"
 		(at 215.9 33.02 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9389,7 +9303,6 @@
 	)
 	(label "GP_19"
 		(at 107.95 107.95 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9400,7 +9313,6 @@
 	)
 	(label "SPI_CS"
 		(at 215.9 55.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9411,7 +9323,6 @@
 	)
 	(label "GP_12"
 		(at 215.9 63.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9422,7 +9333,6 @@
 	)
 	(label "GP_23"
 		(at 266.7 50.8 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9433,7 +9343,6 @@
 	)
 	(label "GP_6"
 		(at 152.4 133.35 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9444,7 +9353,6 @@
 	)
 	(label "I2C_SCL"
 		(at 99.06 177.8 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9455,7 +9363,6 @@
 	)
 	(label "GP_4"
 		(at 120.65 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9466,7 +9373,6 @@
 	)
 	(label "GP_14"
 		(at 215.9 68.58 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9477,7 +9383,6 @@
 	)
 	(label "ADC_1"
 		(at 266.7 40.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9488,7 +9393,6 @@
 	)
 	(label "ADC_1"
 		(at 190.5 135.89 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9499,7 +9403,6 @@
 	)
 	(label "UART_PICO_RX"
 		(at 120.65 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9510,7 +9413,6 @@
 	)
 	(label "SPI_SCK"
 		(at 120.65 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9521,7 +9423,6 @@
 	)
 	(label "GP_19"
 		(at 266.7 60.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9532,7 +9433,6 @@
 	)
 	(label "GP_2"
 		(at 120.65 55.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9543,7 +9443,6 @@
 	)
 	(label "UART_PICO_RX"
 		(at 107.95 102.87 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9554,7 +9453,6 @@
 	)
 	(label "SPI_CS"
 		(at 120.65 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9565,7 +9463,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 38.1 177.8 0)
+		(at 31.75 177.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9574,7 +9472,7 @@
 		(fields_autoplaced yes)
 		(uuid "0d534ccc-7503-4d98-93c1-2e529264da24")
 		(property "Reference" "TP1"
-			(at 40.64 173.2279 0)
+			(at 34.29 173.2279 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9583,7 +9481,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 40.64 175.7679 0)
+			(at 34.29 175.7679 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9592,7 +9490,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
-			(at 43.18 177.8 0)
+			(at 36.83 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9601,7 +9499,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 43.18 177.8 0)
+			(at 36.83 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9610,7 +9508,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 38.1 177.8 0)
+			(at 31.75 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9625,6 +9523,73 @@
 			(project ""
 				(path "/62e0410a-0396-4f93-bca1-bd2454f38729"
 					(reference "TP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 50.8 177.8 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "11a7447e-5b36-4936-8533-dbb2c2c834a8")
+		(property "Reference" "TP2"
+			(at 48.26 182.3721 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 48.26 179.8321 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+			(at 45.72 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 45.72 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 50.8 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7bbeb3dd-f093-4c0a-ba02-83c1197b646b")
+		)
+		(instances
+			(project "trainer-pico"
+				(path "/62e0410a-0396-4f93-bca1-bd2454f38729"
+					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -11166,6 +11131,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 76.2 177.8 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "70304e97-bda3-43ea-a9c6-7bb391cb716a")
+		(property "Reference" "TP4"
+			(at 73.66 182.3721 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 73.66 179.8321 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+			(at 71.12 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 76.2 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1ae02161-71ae-4c41-985f-fc262db458d7")
+		)
+		(instances
+			(project "trainer-pico"
+				(path "/62e0410a-0396-4f93-bca1-bd2454f38729"
+					(reference "TP4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 222.25 139.7 0)
 		(unit 1)
@@ -11239,6 +11271,72 @@
 			(project "trainer-pico"
 				(path "/62e0410a-0396-4f93-bca1-bd2454f38729"
 					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 76.2 177.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "71a8ad3e-01cb-40f2-b1b8-af98752402ac")
+		(property "Reference" "#PWR027"
+			(at 76.2 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 76.2 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 76.2 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 76.2 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 76.2 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ddc8d4bf-f964-4f1d-87f1-f4cc818d0b8a")
+		)
+		(instances
+			(project "trainer-pico"
+				(path "/62e0410a-0396-4f93-bca1-bd2454f38729"
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -11400,7 +11498,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 38.1 177.8 0)
+		(at 31.75 177.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11409,7 +11507,7 @@
 		(fields_autoplaced yes)
 		(uuid "84a687dc-2284-4ba4-bd09-c361af25423d")
 		(property "Reference" "#PWR019"
-			(at 38.1 184.15 0)
+			(at 31.75 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11418,7 +11516,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 38.1 182.88 0)
+			(at 31.75 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11426,7 +11524,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 38.1 177.8 0)
+			(at 31.75 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11435,7 +11533,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 38.1 177.8 0)
+			(at 31.75 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11444,7 +11542,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 38.1 177.8 0)
+			(at 31.75 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12129,6 +12227,72 @@
 			(project "trainer-pico"
 				(path "/62e0410a-0396-4f93-bca1-bd2454f38729"
 					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 50.8 177.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b3e52e52-819e-4c24-8338-4f675471ceb2")
+		(property "Reference" "#PWR028"
+			(at 50.8 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 50.8 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 50.8 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 50.8 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 50.8 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9ada9b9a-f19a-45c1-ad2f-265706c32574")
+		)
+		(instances
+			(project "trainer-pico"
+				(path "/62e0410a-0396-4f93-bca1-bd2454f38729"
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -13355,6 +13519,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+9V")
+		(at 63.5 177.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e9b88ef5-46e0-4454-853e-08401dc501a3")
+		(property "Reference" "#PWR029"
+			(at 63.5 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+9V"
+			(at 63.5 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+9V\""
+			(at 63.5 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0924cddf-5b96-435b-96aa-fcc3954ccd71")
+		)
+		(instances
+			(project "trainer-pico"
+				(path "/62e0410a-0396-4f93-bca1-bd2454f38729"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VBUS")
 		(at 199.39 27.94 0)
 		(unit 1)
@@ -13948,6 +14178,73 @@
 			(project "trainer-pico"
 				(path "/62e0410a-0396-4f93-bca1-bd2454f38729"
 					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 63.5 177.8 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fb89af62-3c17-4933-96f6-f26389c388a4")
+		(property "Reference" "TP3"
+			(at 60.96 182.3721 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 60.96 179.8321 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+			(at 58.42 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 58.42 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 63.5 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2b97da5a-dadc-4a48-b71b-25e39435dd09")
+		)
+		(instances
+			(project "trainer-pico"
+				(path "/62e0410a-0396-4f93-bca1-bd2454f38729"
+					(reference "TP3")
 					(unit 1)
 				)
 			)
