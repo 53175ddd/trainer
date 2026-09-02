@@ -3291,7 +3291,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://akizukidenshi.com/catalog/g/g109240/"
 			(at 139.7 88.9 0)
 			(effects
 				(font
@@ -3430,7 +3430,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://akizukidenshi.com/catalog/g/g109240/"
 			(at 177.8 88.9 0)
 			(effects
 				(font
